@@ -60,8 +60,3 @@ typings/
 # next.js build output
 .next
 
-SERVER/congfig.js
-
-SERVER/config\.js
-
-./congfig.js
