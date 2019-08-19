@@ -47,4 +47,4 @@ const server = http.createServer(app);
 server.on("error", onError);
 server.on("listening", onListening);
 server.listen(port);
-console.log(chalk.blue("Server On"));
+console.log(chalk.blue("Server On!!"));
